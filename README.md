@@ -7,7 +7,7 @@ Automation Engineer interested in Python, AI, and workflow automation.
 
 - **GitHub Certified: Agentic AI Developer (GH-600)**
   - Earned: October 6, 2026
-  - [View my certificate on Microsoft Learn](https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-developer/)
+  - [View my certificate on Microsoft Learn]([https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-developer/](https://learn.microsoft.com/en-us/users/akashsavanth-9164/credentials?tab=credentials-tab))
 
 ## 🚀 Featured Project
 
