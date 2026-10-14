@@ -1,4 +1,3 @@
-
 # Hi, I'm Akash 👋
 
 Automation Engineer interested in Python, AI, and workflow automation.
@@ -7,7 +6,8 @@ Automation Engineer interested in Python, AI, and workflow automation.
 
 - **GitHub Certified: Agentic AI Developer (GH-600)**
   - Earned: October 6, 2026
-  - [View my certificate on Microsoft Learn]([https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-developer/](https://learn.microsoft.com/en-us/users/akashsavanth-9164/credentials?tab=credentials-tab))
+  - [View my certificate on Microsoft Learn](https://learn.microsoft.com/en-us/users/akashsavanth-9164/credentials?tab=credentials-tab/)
+
 
 ## 🚀 Featured Project
 
@@ -19,5 +19,3 @@ AI-assisted workflow orchestration using Python, FastAPI, SQLite, and Ollama, wi
 ## 🛠️ Technologies
 
 Python · FastAPI · SQL · SQLite · VBA · Git · GitHub Actions
-# Akash-M-P
-My developer profile and certifications
